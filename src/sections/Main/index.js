@@ -193,8 +193,8 @@ export default function Hero() {
           <CTA href="#contact">
             Cadastre seu email &nbsp;
             <img
-              src="https://img-premium.flaticon.com/png/512/1812/premium/1812367.png?token=exp=1626650217~hmac=84141db214d9d593ce3a65e5898c7a68"
-              alt="PurpleBlob"
+              src="https://image.flaticon.com/icons/png/512/3418/3418945.png"
+              alt="Kunai"
               width="400"
               height="400"
             />
